@@ -1,0 +1,40 @@
+:root {
+  --main-transition: 0.3s;
+  --eee-color: #eee;
+  --ccc-color: #ccc;
+  --gray-color: #888;
+  --blue-color: #0075ff;
+  --blue-alt-color: #0d69d5;
+  --orange-color: #f59e0b;
+  --green-color: #22c55e;
+  --red-color: #f44336;
+}
+
+/* Start box */
+.d-flex {
+  display: flex;
+}
+
+.d-grid {
+  display: grid;
+}
+
+.d-block {
+  display: block;
+}
+
+/* End box */
+
+/* Start Border */
+.rad-6 {
+  border-radius: 6px;
+}
+
+/* End Border */
+/* Start Components */
+.btn-shape {
+  padding: 4px 10px;
+  border-radius: 6px;
+}
+
+/* End Components */
